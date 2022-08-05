@@ -1,0 +1,4 @@
+tasks:
+  - init: /workspace/rustlings/install.sh
+    command: /workspace/.cargo/bin/rustlings watch
+
